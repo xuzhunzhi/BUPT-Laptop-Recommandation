@@ -55,5 +55,4 @@ ROM：1TB固态硬盘
 
 贴个笔吧的结语在这好了
 
-![image-20260611010322154](C:\Users\XuZhunzhi\AppData\Roaming\Typora\typora-user-images\image-20260611010322154.png)
-
+![Snipaste_2026-07-03_01-42-29](C:\Users\26391\Documents\1.文档\笔记本推荐系列\笔记本推荐篇\轻薄本\4.6500-7500元\Snipaste_2026-07-03_01-42-29.png)
