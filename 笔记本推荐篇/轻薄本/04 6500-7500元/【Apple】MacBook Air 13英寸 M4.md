@@ -1,6 +1,6 @@
 > 创建日期：
 
-# MacBook Air M5 13云评
+# MacBook Air M4 13寸云评
 
 ## 配置
 
