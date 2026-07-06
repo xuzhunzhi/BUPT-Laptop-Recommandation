@@ -6,6 +6,10 @@
 
 **内容修改：**
 - Apple MacBook Air M5 13：修改标注（下调价位至7500-8500元）
+- Apple MacBook Air M5 15英寸：修改标注（下调价位至8500-1W元）
+- Apple MacBook Pro M5：修改标注
+- Apple MacBook Pro M5Pro/M5Max：修改标注
+- 荣耀 MagicBook Art 2025：添加标注
 
 **移除：**
 - Apple MacBook Air M4 13寸
