@@ -1,6 +1,6 @@
 > 创建日期：
 
-# ThinkPad X1 Carbon云评
+# 联想 ThinkPad X1 Carbon云评
 
 ## 配置
 

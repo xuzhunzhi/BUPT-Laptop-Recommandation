@@ -1,6 +1,6 @@
 > 创建日期：
 
-# ThinkPad X9-15p Aura AI元启云评
+# 联想 ThinkPad X9-15p Aura AI元启云评
 
 ## 配置
 

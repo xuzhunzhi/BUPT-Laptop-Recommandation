@@ -1,6 +1,6 @@
 > 创建日期：
 
-# Yoga Pro 15 Aura 2026云评
+# 联想 Yoga Pro 15 Aura 2026云评
 
 ## 配置
 

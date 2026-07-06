@@ -1,6 +1,6 @@
 > 创建日期：
 
-# YOGA Air 14 Ultra AURA云评
+# 联想 YOGA Air 14 Ultra AURA云评
 
 ## 配置
 

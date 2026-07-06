@@ -1,6 +1,6 @@
 > 创建日期：
 
-# Magic Book Pro 14 2026云评
+# 荣耀 Magic Book Pro 14 2026云评
 
 ## 配置
 

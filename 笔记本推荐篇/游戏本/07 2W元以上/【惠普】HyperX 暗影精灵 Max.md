@@ -1,6 +1,6 @@
 > 创建日期：
 
-# HyperX 暗影精灵 Max云评
+# 惠普 HyperX 暗影精灵 Max云评
 
 ## 配置
 

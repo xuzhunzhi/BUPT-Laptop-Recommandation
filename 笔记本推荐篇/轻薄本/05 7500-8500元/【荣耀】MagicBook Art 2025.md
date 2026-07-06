@@ -1,6 +1,6 @@
 > 创建日期：
 
-# MagicBook Art 2025云评
+# 荣耀 MagicBook Art 2025云评
 
 ## 配置
 

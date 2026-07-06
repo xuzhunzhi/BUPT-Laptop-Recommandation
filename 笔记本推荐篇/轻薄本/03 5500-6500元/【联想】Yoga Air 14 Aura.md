@@ -1,6 +1,6 @@
 > 创建日期：
 
-# Yoga Air 14 Aura云评
+# 联想 Yoga Air 14 Aura云评
 
 ## 配置
 

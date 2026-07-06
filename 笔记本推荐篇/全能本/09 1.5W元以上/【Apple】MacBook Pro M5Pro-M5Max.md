@@ -1,6 +1,6 @@
 > 创建日期：
 
-# MacBook Pro M5Pro/M5Max云评
+# Apple MacBook Pro M5Pro-M5Max云评
 
 ## 配置
 

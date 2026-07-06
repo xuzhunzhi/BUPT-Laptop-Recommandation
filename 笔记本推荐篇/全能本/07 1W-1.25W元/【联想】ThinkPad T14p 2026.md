@@ -1,6 +1,6 @@
 > 创建日期：
 
-# ThinkPad T14p 2026云评
+# 联想 ThinkPad T14p 2026云评
 
 ## 配置
 
